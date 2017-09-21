@@ -31,11 +31,11 @@ int main()
         }
         printf("\n========[ MENU ]========\n");
         printf("====[%d/20 cargados]====\n", contLoaded);
-        printf("1_Agregar persona.\n");
-        printf("2_Borrar persona.\n");
-        printf("3_Imprimir lista ordenada por nombre.\n");
-        printf("4_Imprimir grafico de edades.\n");
-        printf("5_Salir\n\n");
+        printf("(1) Agregar persona.\n");
+        printf("(2) Borrar persona.\n");
+        printf("(3) Imprimir lista ordenada por nombre.\n");
+        printf("(4) Imprimir grafico de edades.\n");
+        printf("(5) Salir\n\n");
 
         scanf("%d",&opcion);
 

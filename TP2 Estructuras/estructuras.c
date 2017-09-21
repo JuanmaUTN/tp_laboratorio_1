@@ -7,7 +7,7 @@
 
 ePersona agregarPersona(ePersona lista[], int tam)
 {
-    int ld;
+    int ld, i;
 
     ld = buscarLugar(lista, tam);
 
@@ -148,17 +148,22 @@ ePersona borrarPersona(ePersona lista[], int tam)
 
     if(lugar != -1)
     {
-        printf("Persona encontrada, desea borrarla? (s/n)\n");
-        opcion = getche();
+        printf("Persona encontrada, desea borrarla?\n");
+        printf("Nombre: %s, edad: %d\n", lista[lugar].nombre, lista[lugar].edad);
+        printf("===================\n");
+        printf("(1) Si (borrar).\n");
+        printf("(2) No (cancelar).\n");
+        printf("===================\n");
+        scanf("%d", &opcion);
         switch(opcion)
         {
-        case 's':
+        case 1:
             lista[lugar].estado = 0;
-            printf("Persona borrada.\n");
+            printf("\nPersona borrada.\n");
             break;
 
-        case 'n':
-            printf("Accion cancelada.\n");
+        case 2:
+            printf("\nAccion cancelada.\n");
             break;
         }
     }
@@ -301,19 +306,4 @@ int buscarxDNI(ePersona lista[], int tam)
     }
     return retorno;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
