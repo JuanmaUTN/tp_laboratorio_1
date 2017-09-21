@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1505783963 source:c:\users\juanma\desktop\tp2 estructuras\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+	"estructuras.h"
+
+1505781763 c:\users\juanma\desktop\tp2 estructuras\estructuras.h
+
+1505781763 source:c:\users\juanma\desktop\tp2 estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1505661048 source:e:\programacion i\tp2 estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+
+1505742180 e:\programacion i\tp2 estructuras\estructuras.h
+
+1505747128 source:e:\programacion i\tp2 estructuras\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+	"estructuras.h"
+
+1505839720 source:e:\programacion i\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp2 estructuras\estructuras.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+	<conio.h>
+	<ctype.h>
+	"estructuras.h"
+
+1505833184 e:\programacion i\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp2 estructuras\estructuras.h
+
+1505831234 source:e:\programacion i\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp2 estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"estructuras.h"
+

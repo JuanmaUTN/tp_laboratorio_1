@@ -1,0 +1,96 @@
+# depslib dependency file v1.0
+1491227203 source:c:\users\alumno\desktop\tp1 funciones\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+
+1491226867 source:c:\users\alumno\desktop\tp1 funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1491233086 c:\users\alumno\desktop\tp1 funciones\funciones.h
+
+1491350477 source:c:\users\juanma\desktop\tp1 funciones\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1491340469 c:\users\juanma\desktop\tp1 funciones\funciones.h
+
+1491348461 source:c:\users\juanma\desktop\tp1 funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	<windows.h>
+
+1490920615 source:c:\users\juanma\desktop\utn\trabajos prácticos (obligatorios)\tp1 funciones\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+
+1490833855 c:\users\juanma\desktop\utn\trabajos prácticos (obligatorios)\tp1 funciones\funciones.h
+
+1491098973 source:c:\users\juanma\desktop\utn\trabajos prácticos (obligatorios)\tp1 funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1491314239 source:c:\users\alumno\desktop\tp1_funciones-master\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1491313177 c:\users\alumno\desktop\tp1_funciones-master\funciones.h
+
+1491314484 source:c:\users\alumno\desktop\tp1_funciones-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	<windows.h>
+
+1491340359 source:c:\users\juanma\desktop\tp1_funciones-master\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1491340469 c:\users\juanma\desktop\tp1_funciones-master\funciones.h
+
+1491340570 source:c:\users\juanma\desktop\tp1_funciones-master\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	<windows.h>
+
+1503960299 source:c:\users\juanma\desktop\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp1 funciones\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1503958236 c:\users\juanma\desktop\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp1 funciones\funciones.h
+
+1503959726 source:c:\users\juanma\desktop\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp1 funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	<windows.h>
+
+1504297924 source:e:\programacion i\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp1 funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+	<windows.h>
+
+1504053326 e:\programacion i\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp1 funciones\funciones.h
+
+1504297924 source:e:\programacion i\prog-y-lab-1-master\trabajos prácticos (obligatorios)\tp1 funciones\funciones.c
+	"Funciones.h"
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+
